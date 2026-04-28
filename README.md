@@ -10,3 +10,8 @@
 
 💡 А если пока нужен только простой бейдж-счётчик посетителей на личную страницу, 
 достаточно добавить значок от GitHub Profile Views Counter.
+
+### 📊 Статистика и просмотры:
+![oppoupp stats](https://github-readme-stats.vercel.app/api?username=oppoupp&show_icons=true&theme=dark)
+
+![Profile views](https://komarev.com/ghpvc/?username=oppoupp&color=blue&style=flat)
