@@ -18,5 +18,4 @@
 
 [GitHub Profile Views Counter]: https://github.com/oppoupp/github-profile-views-counter
 
- <script type="text/javascript" async src="https://tenor.com/embed.js">  
-</script>
+![Steam Happy Emoji](assets/steamhappy.gif)
