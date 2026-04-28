@@ -18,4 +18,4 @@
 
 [GitHub Profile Views Counter]: https://github.com/oppoupp/github-profile-views-counter
 
-![Steam Happy Emoji](assets/steamhappy.gif)
+![Steam Happy Emoji](https://media1.tenor.com/m/QMfzGb53ZukAAAAd/steamhappy.gif)
