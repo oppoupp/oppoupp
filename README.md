@@ -18,4 +18,5 @@
 
 [GitHub Profile Views Counter]: https://github.com/oppoupp/github-profile-views-counter
 
-<div class="tenor-gif-embed" data-postid="4667966830688036585" data-share-method="host" data-aspect-ratio="2.46535" data-width="100%"><a href="https://tenor.com/view/steamhappy-gif-4667966830688036585">Steamhappy GIF</a>from <a href="https://tenor.com/search/steamhappy-gifs">Steamhappy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <script type="text/javascript" async src="https://tenor.com/embed.js">  
+</script>
