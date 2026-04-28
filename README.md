@@ -15,3 +15,5 @@
 ![oppoupp stats](https://github-readme-stats.vercel.app/api?username=oppoupp&show_icons=true&theme=dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=oppoupp&color=blue&style=flat)
+
+[GitHub Profile Views Counter]: https://github.com/oppoupp/github-profile-views-counter
