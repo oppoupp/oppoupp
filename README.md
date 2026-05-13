@@ -14,6 +14,12 @@
 ### 📊 Статистика и просмотры:
 ![oppoupp stats](https://github-readme-stats.vercel.app/api?username=oppoupp&show_icons=true&theme=dark)
 
+pie title Статистика использования языков
+ "JavaScript" : 45.2
+ "Python" : 30.1
+ "HTML/CSS" : 16.7
+ "Другие" : 8.0
+
 ![Profile views](https://komarev.com/ghpvc/?username=oppoupp&color=blue&style=flat)
 
 [GitHub Profile Views Counter]: https://github.com/oppoupp/github-profile-views-counter
